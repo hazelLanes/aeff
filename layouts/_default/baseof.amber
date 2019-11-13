@@ -3,15 +3,15 @@ html
     head
         meta[name="viewport"][content="width=device-width, initial-scale=1.0"]
 
-        link[rel="stylesheet"][href=absURL("/assets/normalize.min.css")]
-        link[rel="stylesheet"][href=absURL("/assets/iosevka.css")]
-        link[rel="stylesheet"][href=absURL("/assets/milligram.min.css")]
-        link[rel="stylesheet"][href=absURL("/assets/style.css")]
+        link[rel="stylesheet"][href=absURL("assets/normalize.min.css")]
+        link[rel="stylesheet"][href=absURL("assets/iosevka.css")]
+        link[rel="stylesheet"][href=absURL("assets/milligram.min.css")]
+        link[rel="stylesheet"][href=absURL("assets/style.css")]
 
-        link[rel="apple-touch-icon"][sizes="180x180"][href=absURL("/apple-touch-icon.png")]
-        link[rel="icon"][type="image/png"][sizes="32x32"][href=absURL("/favicon-32x32.png")]
-        link[rel="icon"][type="image/png"][sizes="16x16"][href=absURL("/favicon-16x16.png")]
-        link[rel="manifest"][href=absURL("/site.webmanifest")]
+        link[rel="apple-touch-icon"][sizes="180x180"][href=absURL("apple-touch-icon.png")]
+        link[rel="icon"][type="image/png"][sizes="32x32"][href=absURL("favicon-32x32.png")]
+        link[rel="icon"][type="image/png"][sizes="16x16"][href=absURL("favicon-16x16.png")]
+        link[rel="manifest"][href=absURL("site.webmanifest")]
 
         title
             block title

@@ -1,4 +1,4 @@
-baseURL: https://hazellanes.github.io/aeff
+baseURL: "https://hazellanes.github.io/aeff/"
 languageCode: en-us
 title: Association for Eco-Friendly Fuel
 publishDir: docs
