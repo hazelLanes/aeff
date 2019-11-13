@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Association for Eco-Friendly Fuel</title>
-    <link>hazellanes.github.io/</link>
+    <link>hazellanes.github.io/aeff/</link>
     <description>Recent content on Association for Eco-Friendly Fuel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="hazellanes.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="hazellanes.github.io/aeff/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Us</title>
-      <link>hazellanes.github.io/about/</link>
+      <link>hazellanes.github.io/aeff/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>hazellanes.github.io/about/</guid>
+      <guid>hazellanes.github.io/aeff/about/</guid>
       <description>[Rough Draft] We research and advocate for the creation and usage of more eco-friendly fuel sources for vehicles. Blah blah blah, more stuff to fill in later, whatever whatever, blah blah blah.</description>
     </item>
     
     <item>
       <title>Platform</title>
-      <link>hazellanes.github.io/platform/</link>
+      <link>hazellanes.github.io/aeff/platform/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>hazellanes.github.io/platform/</guid>
+      <guid>hazellanes.github.io/aeff/platform/</guid>
       <description></description>
     </item>
     
