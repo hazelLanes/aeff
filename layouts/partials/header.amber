@@ -1,0 +1,11 @@
+div#header
+    h1
+        a[href=Site.Home.Permalink] #{Site.Title}
+    ul#menu
+        $currentPage = $
+
+        each $entry in Site.Menus.main
+            li
+                a[href=URL]
+                    .active ? $currentPage.IsMenuCurrent(Menu, $entry)
+                    | #{Title}

@@ -1,0 +1,8 @@
+extends baseof
+
+block content
+    h1.page-title
+        a[href=Permalink] #{Title}
+
+    div.content
+    	#{Content}

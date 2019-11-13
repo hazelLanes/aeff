@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Iosevka Type Slab Web', Courier, monospace;
+    font-weight: 300;
+    padding: 2rem;
+    text-align: center;
+    background-color: #97e397;
+}
+
+#main {
+    text-align: left;
+    margin: 0 auto;
+    padding: 0.5rem;
+    width: 100%;
+    border-style: solid;
+    background-color: #EEE;
+}
+
+@media only screen and (min-width: 768px) {
+    #main {
+        width: 72rem;
+    }
+}
+
+h1 a {
+    color: #606c76;
+}
+
+/* Header */
+
+#header {
+    border-bottom-style: solid;
+    border-color: #999;
+}
+
+#header h1 {
+    font-size: 4rem;
+    margin: 0;
+}
+
+#menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#menu li {
+    float: left;
+}
+
+#menu li a {
+    display: block;
+    color: white;
+    background-color: #333;
+    text-align: center;
+    padding: 0.8rem;
+}
+
+#menu li a:hover {
+    background-color: #444;
+}
+
+#menu li a.active {
+    background-color: #4d84d1;
+}
+
+/* Milligram Overrides */
+.button {
+    border-radius: 0.2rem;
+}
